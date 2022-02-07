@@ -1,2 +1,2 @@
 # conclave-user-app
-Conclave App that users install on their private devices
+Client App that individual users install on their devices
